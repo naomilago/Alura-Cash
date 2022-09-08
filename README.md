@@ -11,7 +11,7 @@
 
 <p align='center' style='text-align: justify'>
 I've been hired as a freelancer data scientist to work for an international digital bank called Alura Cash. At the first meeting, the financial management informs me that people are repeatedly defaulting after credits have been released. Therefore, I'm asked for a solution to decrease financial losses due to borrowers who do not pay their debts.
-</p>
+</p> 
 
 <p align='center' style='text-align: justify'>
 As a data scientist, I suggest a study around financial and loan application information aiming to find patterns that might indicate a possible default.
